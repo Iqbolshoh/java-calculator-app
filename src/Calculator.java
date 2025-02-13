@@ -14,8 +14,11 @@ public class Calculator extends JFrame implements ActionListener {
 //
 //
 //
+//
+//
+//
 
-    
+
     public Calculator() {
         setTitle("Calculator");
         setSize(300, 420);
