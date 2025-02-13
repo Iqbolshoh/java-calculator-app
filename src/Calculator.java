@@ -9,6 +9,7 @@ public class Calculator extends JFrame implements ActionListener {
     private double num1 = 0, num2 = 0, result = 0;
     private boolean isNewOperation = false;
 
+    
     public Calculator() {
         setTitle("Calculator");
         setSize(300, 420);
