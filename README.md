@@ -1,6 +1,6 @@
 # Java Calculator App
 
-![Banner](banner.png)
+![Banner](res/banner.png)
 
 ## 📌 Overview
 This is a simple **Java-based Calculator** built using `Swing` for the graphical user interface (GUI). The calculator supports **basic arithmetic operations** such as addition, subtraction, multiplication, and division.
@@ -19,7 +19,7 @@ This is a simple **Java-based Calculator** built using `Swing` for the graphical
 ## 🚀 How to Run
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/java-calculator-app.git
+   git clone https://github.com/iqbolshoh/java-calculator-app.git
    cd java-calculator-app
    ```
 2. **Compile the Program:**
