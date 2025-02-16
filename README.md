@@ -1,5 +1,7 @@
 # Java Calculator App
 
+![Banner](banner.png)
+
 ## 📌 Overview
 This is a simple **Java-based Calculator** built using `Swing` for the graphical user interface (GUI). The calculator supports **basic arithmetic operations** such as addition, subtraction, multiplication, and division.
 
@@ -35,41 +37,21 @@ This is a simple **Java-based Calculator** built using `Swing` for the graphical
 - Press `=` to compute the result.
 - Click `C` to reset the calculator.
 
-## 📝 Code Breakdown
-### `actionPerformed()`
-Handles button clicks and updates the display accordingly.
-
-### `evaluate(double num1, double num2, String operator)`
-Executes arithmetic operations based on the given operator.
-
-## 🏆 Future Enhancements
-- Implement **decimal point support**.
-- Add **memory functions** (`M+`, `M-`, `MR`).
-- Enhance UI with **modern styling**.
-
-📌 **Developed in Java using Swing!** 🚀
-
+---
 
 ## Technologies Used
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-    <img src="https://img.shields.io/badge/HTML-%23F06529.svg?style=for-the-badge&logo=html5&logoColor=white"
-        alt="HTML">
-    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
-        alt="JavaScript">
-     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
-        alt="MySQL">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Swing-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Swing">
+    <img src="https://img.shields.io/badge/AWT-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white" alt="AWT">
 </div>
-
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions or want to enhance the project, feel free to fork the repository and submit a pull request.
 
-
-## Connect with Me
+## 📫 Connect with Me
 
 I love connecting with new people and exploring new opportunities. Feel free to reach out to me through any of the platforms below:
 
