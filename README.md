@@ -37,7 +37,6 @@ This is a simple **Java-based Calculator** built using `Swing` 🏗️ for the g
 ✅ Press `=` to compute the result.  
 ♻️ Click `C` to reset the calculator.  
 
-
 ## Technologies Used
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
