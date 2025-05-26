@@ -12,10 +12,6 @@ This is a simple **Java-based Calculator** built using `Swing` 🏗️ for the g
 ✅ **Result Calculation (`=`)** – Computes the entered mathematical expression 🏆.  
 ✅ **Error Handling** – Prevents division by zero ❌➗0.  
 
-## 🛠 Technologies Used 💻  
-🔹 **Java Swing** – For the graphical user interface 🖥️.  
-🔹 **Java AWT** – For event handling and layout management ⚡.  
-
 ## 🚀 How to Run 🏃💨  
 1️⃣ **Clone the Repository** 📂:  
    ```bash
