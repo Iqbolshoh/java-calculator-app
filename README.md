@@ -33,7 +33,7 @@ This is a simple **Java-based Calculator** built using `Swing` 🏗️ for the g
 ✅ Press `=` to compute the result.  
 ♻️ Click `C` to reset the calculator.  
 
-## Technologies Used
+## 🖥 Technologies Used
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
